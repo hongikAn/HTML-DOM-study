@@ -90,7 +90,7 @@ Accessing the first child can also be done like this:
 var myTitle = document.getElementById("demo").childNodes[0].nodeValue;
 ```
 
-All the (3) following examples retrieves the text of an <h1> element and copies it into a <p> element:
+All the (3) following examples retrieves the text of an h1 element and copies it into a p element:
 
 ```html
 <!DOCTYPE html>
