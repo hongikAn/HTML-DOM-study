@@ -19,12 +19,6 @@ With the HTML DOM, all nodes in the node tree can be accessed by JavaScript.
 
 New nodes can be created, and all nodes can be modified or deleted.
 
-**_What’s a node?_** it is the name of any type of object in the DOM tree. It could be one of the built-in DOM elements such as the **document** itself, **document.head** or **document.body.** A node could be an HTML tag specified in the HTML such as **<input>**, **<div>,<h2>,** **<p>** or it could be a comment node, text node… In fact, a **node** is any DOM object and every node has a parent, every node is allowed to have one or more children or even zero children.
-
-**_What’s an element?_** An element is a specific type of node, one that can be directly specified in the HTML with an HTML tag and can have properties like an **id** or a **class**. can have children, etc.
-
-**_Nodes vs Elements_**: Nodes are all the different components that a webpage is made up of and elements are one type of node.
-
 # Node Relationships
 
 The nodes in the node tree have a hierarchical relationship to each other.
